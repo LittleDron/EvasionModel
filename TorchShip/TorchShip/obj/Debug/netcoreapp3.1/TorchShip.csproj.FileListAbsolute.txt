@@ -1,0 +1,16 @@
+C:\Users\Митя\source\repos\TorchShip\TorchShip\obj\Debug\netcoreapp3.1\TorchShip.csprojAssemblyReference.cache
+C:\Users\Митя\source\repos\TorchShip\TorchShip\obj\Debug\netcoreapp3.1\TorchShip.Form1.resources
+C:\Users\Митя\source\repos\TorchShip\TorchShip\obj\Debug\netcoreapp3.1\TorchShip.csproj.GenerateResource.cache
+C:\Users\Митя\source\repos\TorchShip\TorchShip\obj\Debug\netcoreapp3.1\TorchShip.AssemblyInfoInputs.cache
+C:\Users\Митя\source\repos\TorchShip\TorchShip\obj\Debug\netcoreapp3.1\TorchShip.AssemblyInfo.cs
+C:\Users\Митя\source\repos\TorchShip\TorchShip\obj\Debug\netcoreapp3.1\TorchShip.csproj.CoreCompileInputs.cache
+C:\Users\Митя\source\repos\TorchShip\TorchShip\bin\Debug\netcoreapp3.1\TorchShip.exe
+C:\Users\Митя\source\repos\TorchShip\TorchShip\bin\Debug\netcoreapp3.1\TorchShip.deps.json
+C:\Users\Митя\source\repos\TorchShip\TorchShip\bin\Debug\netcoreapp3.1\TorchShip.runtimeconfig.json
+C:\Users\Митя\source\repos\TorchShip\TorchShip\bin\Debug\netcoreapp3.1\TorchShip.runtimeconfig.dev.json
+C:\Users\Митя\source\repos\TorchShip\TorchShip\bin\Debug\netcoreapp3.1\TorchShip.dll
+C:\Users\Митя\source\repos\TorchShip\TorchShip\bin\Debug\netcoreapp3.1\TorchShip.pdb
+C:\Users\Митя\source\repos\TorchShip\TorchShip\obj\Debug\netcoreapp3.1\TorchShip.dll
+C:\Users\Митя\source\repos\TorchShip\TorchShip\obj\Debug\netcoreapp3.1\TorchShip.pdb
+C:\Users\Митя\source\repos\TorchShip\TorchShip\obj\Debug\netcoreapp3.1\TorchShip.genruntimeconfig.cache
+C:\Users\Митя\source\repos\TorchShip\TorchShip\obj\Debug\netcoreapp3.1\TorchShip.Properties.Resources.resources
